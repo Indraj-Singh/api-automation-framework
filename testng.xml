@@ -1,0 +1,18 @@
+<suite name="API Suite" parallel="classes" thread-count="6">
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+    <test name="API Parallel Tests">
+        <classes>
+            <class name="tests.AuthTest"/>
+            <class name="tests.CartTest"/>
+            <class name="tests.PerformanceTest"/>
+            <class name="tests.ApiChaining"/>
+            <class name="tests.UserTest"/>
+            <class name="tests.ProductTest"/>
+
+        </classes>
+    </test>
+
+</suite>
