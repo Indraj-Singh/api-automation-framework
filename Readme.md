@@ -1,8 +1,10 @@
 # API Automation Framework – Fake Store API
 
-A production-style REST API automation framework built with Java, RestAssured, and TestNG.
-The project demonstrates how to design scalable, maintainable, and reliable API test systems rather than just writing test scripts.
+# API Automation Framework – Fake Store API
 
+Production-grade REST API automation framework built using Java, REST Assured, and TestNG.
+
+🚀 Designed for scalability, maintainability, and real-world API testing challenges.
 ---
 
 ## Architecture
